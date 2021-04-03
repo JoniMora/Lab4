@@ -1,6 +1,7 @@
 ## Jonathan Mora Colodrero
 
-Telefono: 0303456
+**Telefono:** 0303456
+**email:** itsafakeaccount@gmail.com
 
 **Estudios:
 Lenguajes de programacion:**
