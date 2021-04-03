@@ -1,8 +1,8 @@
 ## Jonathan Mora Colodrero
 
 ##### Datos de contacto: 
-**Telefono:** 0303456
-**email:** itsafakeaccount@gmail.com
+- Telefono: 0303456
+- email: itsafakeaccount@gmail.com
 
 ------------
 
