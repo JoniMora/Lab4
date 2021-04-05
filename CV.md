@@ -3,6 +3,7 @@
 ##### Datos de contacto: 
 - Telefono: 0303456
 - email: itsafakeaccount@gmail.com
+- Localidad: Cordoba 
 
 ------------
 
@@ -18,3 +19,4 @@
 - C++
 - JavaScript
 - Go
+- Python 
